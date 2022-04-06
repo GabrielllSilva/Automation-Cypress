@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Gabriel Silva",
+        "cpf": "36679138850",
+        "email": "gluiz37@gmail.com",
+        "whatsapp": "11931430018",
+        "address": {
+            "postalcode": "13300090",
+            "street": "Rua Santa Cruz",
+            "number": "393",
+            "details": "Apto. 107",
+            "district": "Centro",
+            "city_state": "Itu/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Gabriel Leite",
+        "cpf": "366791XXX50",
+        "email": "gleite37@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "13300090",
+            "street": "Rua Santa Cruz",
+            "number": "393",
+            "details": "Apto. 107",
+            "district": "Centro",
+            "city_state": "Itu/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Gabriel Silva",
+        "cpf": "36679138850",
+        "email": "test.com",
+        "whatsapp": "11931430018",
+        "address": {
+            "postalcode": "13300090",
+            "street": "Rua Santa Cruz",
+            "number": "393",
+            "details": "Apto. 107",
+            "district": "Centro",
+            "city_state": "Itu/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
